@@ -1,5 +1,5 @@
 # Curriculo_Profissional
-Desenvolvendo meu currículo profissional, usando a estrutura HMTL e CSS.
+<h1> Desenvolvendo meu currículo profissional, usando a estrutura HMTL e CSS. </h1>
 
 Aulas: https://www.youtube.com/playlist?list=PLJIP7GdByOytTaX6zHOm2lcfrvUg80mju
 
