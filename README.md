@@ -1,5 +1,11 @@
-# Curriculo_Profissional
-<h1> Currículo profissional, usando a estrutura HMTL e CSS. </h1>
+<h1> Curriculo Profissional Web </h1>
+
+### Criado e desenvolvido com: 
+- HMTL
+- CSS
+- Java Script
+- Bootstrap
+- Visual Code
 
 
 ![image](https://github.com/user-attachments/assets/94b5355d-4a59-4ca5-bddb-39ad0af2606e)
