@@ -7,11 +7,11 @@
 - Bootstrap
 - Visual Studio Code
 
-![image](https://github.com/user-attachments/assets/99320293-dc3a-4a7d-b6b8-b79fc5cda490)
+![image](https://github.com/user-attachments/assets/e4bff123-1cfb-4e96-a016-4060c01dd358)
 
-![image](https://github.com/user-attachments/assets/4bcf2dc1-0101-4f7d-a031-3a62e81ee8c0)
+![image](https://github.com/user-attachments/assets/74b3ca5f-cb48-4842-ab61-8e3e14155cbc)
 
-![image](https://github.com/user-attachments/assets/b1e3ec20-1634-4c61-88e2-d9fec24ba906)
+![image](https://github.com/user-attachments/assets/0a8ef7e3-ef68-415e-8a48-dcdc766cd31a)
 
-
+![image](https://github.com/user-attachments/assets/a58fc2b4-11dc-444e-8aa6-6feeaf30ad13)
 
