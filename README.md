@@ -6,10 +6,9 @@ Aulas: https://www.youtube.com/playlist?list=PLJIP7GdByOytTaX6zHOm2lcfrvUg80mju
 Biblioteca: https://getbootstrap.com/docs/4.5/getting-started/introduction/
 
 
-![image](https://github.com/user-attachments/assets/c6f3af6d-821c-46ad-8d1c-3f89546365e3)
+![image](https://github.com/user-attachments/assets/94b5355d-4a59-4ca5-bddb-39ad0af2606e)
+![image](https://github.com/user-attachments/assets/4bcf2dc1-0101-4f7d-a031-3a62e81ee8c0)
+![image](https://github.com/user-attachments/assets/b1e3ec20-1634-4c61-88e2-d9fec24ba906)
 
-![image](https://github.com/user-attachments/assets/cbd60831-248d-4730-88aa-21583dea5138)
-
-![image](https://github.com/user-attachments/assets/61039b20-bf64-47eb-ae45-0ba1e6d48ad6)
 
 
