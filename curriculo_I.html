@@ -314,7 +314,12 @@
         <script src="js/scripts.js"></script>
         <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
         <script>
-            AOS.init();
+            AOS.init(
+            {
+                <!-- Desabilitar o AOS, para que o redimencionamento fique bom para qualquer tela-->
+                disable: 'mobile'
+            }
+            );
         </script>
     </body>
 </html>
